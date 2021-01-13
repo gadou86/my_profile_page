@@ -1,0 +1,89 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
+
+body {
+  background-color: rgb(240,240,240,240);
+  font-family: 'Montserrat';
+  color: #00587a;
+}
+
+.img-circle {
+  width: 100px;
+  border-radius: 50%;
+}
+
+h1 {
+  color: #0f3057;
+}
+
+h2 {
+  color: #bee5d3;
+  font-family: "roboto";
+  font-size: 22px;
+}
+
+p {
+  color: #0f3057;
+  line-height: 1.5em;
+}
+
+
+.container {
+  width: 700px;
+  margin: 40px auto;
+}
+
+h3 {
+  line-height: 0.1;
+  font-weight: lighter;
+}
+
+a {
+  font-family: "roboto";
+  text-decoration: none;
+  color: #f56a79;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+
+.fab {
+  color: rgb(230, 230, 230);
+  font-size: 50px;
+}
+
+i:hover {
+  color: #bee5d3;
+
+}
+
+.card-white {
+  background: white;
+  padding: 40px;
+  /* border: 1px solid lightgrey; */
+  text-align: center;
+  box-shadow: 0px 10px 30px rgba(44, 185, 201, 0.201);
+  margin: 20px 0px;
+}
+
+.btn-blue {
+  background-color:#f4f4f4;
+  color: #00587a;
+  padding: 15px 20px;
+  border-radius: 4px;
+  line-height: 3; 
+}
+
+.btn-blue:hover {
+  background-color: #222831;
+  color: #fff;
+}
+
+.list-inline {
+  list-style: none;
+  padding-left: 0px;
+}
+
+.list-inline li {
+  display: inline-block;
+  padding: 0px 10px ;
+}
