@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;900&display=swap');
 
 body {
-  background-color: rgb(44 44 44);
+  background: linear-gradient(180deg, #262a34 0%, #262a34 100%);
   font-family: 'Montserrat';
   color: #00587a;
 }
@@ -58,7 +58,7 @@ i:hover {
 }
 
 .card-white {
-  background: #202020;
+  background: linear-gradient(180deg, #262a34 0%, #1a1d24 100%);
   padding: 40px;
   /* border: 1px solid lightgrey; */
   text-align: center;
